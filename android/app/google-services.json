@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416828681057",
+    "project_id": "wellbot-e8027",
+    "storage_bucket": "wellbot-e8027.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416828681057:android:0ef3bd23c7f2bd4a887320",
+        "android_client_info": {
+          "package_name": "com.example.wellbotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCugSEzb-kbs2lDrCHGK_TESqAfGZDVH8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
